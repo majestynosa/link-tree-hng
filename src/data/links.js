@@ -18,21 +18,21 @@ const Links = [
         id: 'books',
         href: 'https://books.zuri.team/',
         target: "_blank",
-        description: 'This is where you find books about design and coding'
+        description: 'Find interesting books about design and coding'
     },
     {
         title: 'Python Books',
         id: 'book__python',
         href: 'https://books.zuri.team/python-for-beginners?ref_id=nosamajesty22',
         target: "_blank",
-        description: 'This is where you find books about design and coding'
+        description: 'Everything you need to learn about python all in one place'
     },
     {
         title: 'Background check for coders',
         id: 'pitch',
         href: 'https://background.zuri.team/',
         target: "_blank",
-        description: 'This is where you find books about design and coding'
+        description: 'Get background checks on developers before your next hire'
     },
     {
         title: 'Background check for coders',
