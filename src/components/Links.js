@@ -3,7 +3,7 @@ export default function Links() {
     return <div className="links">
         {
             links.map((item, index) => (
-                <a key={index} href={item.href} id={item.id}>
+                <a key={index} href={item.href} id={item.id} target={item.target} title={item.description}>
                     <div className="link_item">
                         <h3>{item.title}</h3>
                     </div>

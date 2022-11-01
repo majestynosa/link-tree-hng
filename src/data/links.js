@@ -28,14 +28,14 @@ const Links = [
         description: 'Everything you need to learn about python all in one place'
     },
     {
-        title: 'Background check for coders',
+        title: 'Background Check for Coders',
         id: 'pitch',
         href: 'https://background.zuri.team/',
         target: "_blank",
         description: 'Get background checks on developers before your next hire'
     },
     {
-        title: 'Background check for coders',
+        title: 'Design Books',
         id: 'book__design',
         href: 'https://books.zuri.team/design-rules',
         target: "_blank",
