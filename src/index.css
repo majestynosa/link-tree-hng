@@ -16,7 +16,8 @@ body {
 }
 
 .main_section {
-  padding: 64px 32px;
+  padding: 0 32px;
+  padding-top: 64px;
 }
 
 .profile_section {
@@ -45,10 +46,11 @@ body {
 }
 
 .links {
-  padding: 56px 32px;
+  padding: 0 32px;
 }
 
 .links a {
+  margin-bottom: 24px;
   text-decoration: none;
   color: #101828;
 }
@@ -57,8 +59,7 @@ body {
   background-color: #EAECF0;
   border: 1px solid #EAECF0;
   border-radius: 8px;
-  margin: 24px 0;
-  height: 76px;
+  margin-bottom: 24px;
   filter: drop-shadow(0px 1px 2px rgba(16, 24, 40, 0.05));
 }
 
@@ -72,6 +73,8 @@ body {
 }
 
 .small_link {
+  display: flex;
+  justify-content: center;
   margin: 24px 0;
 }
 
